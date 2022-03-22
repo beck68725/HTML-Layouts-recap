@@ -1,7 +1,9 @@
 span {
   display: inline-block;
 }
-
+body {
+  text-align: center;
+}
   /* span {
   display: inline-block;
   background-color: lightblue;
@@ -49,6 +51,3 @@ span {
   background-color: white;
 } */
 
-body {
-  text-align: center;
-}
